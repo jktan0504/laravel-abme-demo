@@ -8,7 +8,7 @@ current web version: 2.0.15<br />
 
 laravel version: 5.8<br />
 ```bash
-"react-native": "5.8.*",
+"laravel/framework": "5.8.*",
 ```
 
 ## Available at
